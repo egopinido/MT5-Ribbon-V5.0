@@ -20,9 +20,11 @@ MT5 Ribbon V5.0 - Aggressive Monitor Pro 🚀🔥
 
 -------------------------------------------------------------------------------------------
 📁 هيكلية المشروع (Project Structure)
-
+----------
 لضمان عمل البرنامج بشكل صحيح، يجب أن تكون الملفات منظمة بهذا الشكل:
+
 -------------------------------------------
+
 C:\Users\Admin\MT5-Ribbon\
 ├── MT5-Ribbon.exe       
 ├── MT5-Ribbon.py        
@@ -33,6 +35,8 @@ C:\Users\Admin\MT5-Ribbon\
 └── Screenshots/
     ├── main_ui1.png     
     └── main_ui2.png     
+    └── main_ui3.png 
+    
 ------------------------------------------------------------------------------------------
 
 <img width="399" height="979" alt="main_ui1" src="https://github.com/user-attachments/assets/a36e7319-43f7-47ac-81ac-171e9598a24a" />
